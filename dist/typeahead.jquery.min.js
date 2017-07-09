@@ -1,5 +1,5 @@
 /*!
- * typeahead.js 0.11.1
+ * typeahead.js 0.11.2
  * https://github.com/twitter/typeahead.js
  * Copyright 2013-2017 Twitter, Inc. and other contributors; Licensed MIT
  */
